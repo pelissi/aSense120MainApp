@@ -177,34 +177,6 @@
 							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.1037019946" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.2084890674"/>
 						</toolChain>
 					</folderInfo>
-					<folderInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.173051488.1601078101" name="/" resourcePath="Application/UserCode/ExternalInterface/GPInterface">
-						<toolChain id="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.939501227" name="MCU ARM GCC" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug" unusedChildren="">
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.984573487.1658029223" name="MCU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.984573487"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.233339923.198901638" name="CPU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.233339923"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1237791018.1853039851" name="Core" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1237791018"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1350541727.15969537" name="Floating-point unit" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1350541727"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1911380548.1541706298" name="Floating-point ABI" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1911380548"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.1647238515.584147301" name="Board" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.1647238515"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.1230796167.1728285974" name="Defaults" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.1230796167"/>
-							<option id="com.st.stm32cube.ide.mcu.debug.option.cpuclock.1838996530.976055710" name="Cpu clock frequence" superClass="com.st.stm32cube.ide.mcu.debug.option.cpuclock.1838996530"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoprintffloat.648226414.1535026326" name="Use float with printf from newlib-nano (-u _printf_float)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoprintffloat.648226414"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoscanffloat.859256794.1561815740" name="Use float with scanf from newlib-nano (-u _scanf_float)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoscanffloat.859256794"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.convertbinary.2015703871.1460802226" name="Convert to binary file (-O binary)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.convertbinary.2015703871"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1924694492" name="MCU/MPU GCC Assembler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1542467588"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.947643617" name="MCU/MPU GCC Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1458574272"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.531941537" name="MCU/MPU G++ Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1673929674"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.1135669492" name="MCU/MPU GCC Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.114046050"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.832800863" name="MCU/MPU G++ Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.758102098"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1114271923" name="MCU/MPU GCC Archiver" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.778709857"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.815665202" name="MCU Size" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.344622241"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.1419575278" name="MCU Output Converter list file" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.425736383"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1005588727" name="MCU Output Converter Hex" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.2077801150"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.132005794" name="MCU Output Converter Binary" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.1725135923"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.1594048460" name="MCU Output Converter Verilog" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.1653587843"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.16782879" name="MCU Output Converter Motorola S-rec" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.1601515023"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.692831813" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.2084890674"/>
-						</toolChain>
-					</folderInfo>
 					<folderInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.173051488.374931328" name="/" resourcePath="Middlewares">
 						<toolChain id="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.375807886" name="MCU ARM GCC" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug" unusedChildren="">
 							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.984573487.601371489" name="MCU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.984573487"/>
@@ -245,7 +217,7 @@
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="AZURE_RTOS"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Abstraction"/>
-						<entry excluding="UserCode/ExternalInterface/GPInterface|Scripts/addons|UserCode/AHRS|UserCode/PeripheralInputs/BarometerMS5611DriverTask|UserCode/PeripheralInputs/BarometerHoneywellDriverTask|UserCode/PeripheralInputs/BaroMagnetoListenerTask|UserCode/PeripheralInputs/MagnetometerRm3100DriverTask|UserCode/PeripheralInputs/IMUDriverTask|UserCode/PeripheralInputs/GNSSUbloxDriverTask|UserCode/EGIReplay|UserCode/SystemManager|UserCode/StrapDown|UserCode/Kalman|Builder/aSenseFamily/aSense2XX|Builder/aSenseFamily/aSense3XX" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Application"/>
+						<entry excluding="UserCode/PeripheralInputs/Barometer|UserCode/PeripheralInputs/Magnetometer|UserCode/PeripheralInputs/DeltaImuListenerTask|UserCode/PeripheralInputs/GNSS|UserCode/ExternalInterface/GPInterface|Scripts/addons|UserCode/AHRS|UserCode/PeripheralInputs/BarometerMS5611DriverTask|UserCode/PeripheralInputs/BarometerHoneywellDriverTask|UserCode/PeripheralInputs/BaroMagnetoListenerTask|UserCode/PeripheralInputs/MagnetometerRm3100DriverTask|UserCode/PeripheralInputs/IMUDriverTask|UserCode/PeripheralInputs/GNSSUbloxDriverTask|UserCode/EGIReplay|UserCode/SystemManager|UserCode/StrapDown|UserCode/Kalman|Builder/aSenseFamily/aSense2XX|Builder/aSenseFamily/aSense3XX" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Application"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Common"/>
 						<entry excluding="Startup/startup_stm32h743aiix.s" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
@@ -392,38 +364,10 @@
 							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.337587435" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec"/>
 						</toolChain>
 					</folderInfo>
-					<folderInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.2118940042.1933498732" name="/" resourcePath="Application/UserCode/ExternalInterface/GPInterface">
-						<toolChain id="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.release.716960121" name="MCU ARM GCC" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.release" unusedChildren="">
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.472483915.9766292" name="MCU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.472483915"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.905938928.795012362" name="CPU" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.905938928"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1693117891.343020873" name="Core" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1693117891"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1133479043.1455153137" name="Floating-point unit" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1133479043"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.967113023.1738869128" name="Floating-point ABI" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.967113023"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.764537127.741481843" name="Board" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.764537127"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.447185255.423698896" name="Defaults" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.447185255"/>
-							<option id="com.st.stm32cube.ide.mcu.debug.option.cpuclock.579799697.323777572" name="Cpu clock frequence" superClass="com.st.stm32cube.ide.mcu.debug.option.cpuclock.579799697"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.convertbinary.987287796.609293011" name="Convert to binary file (-O binary)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.convertbinary.987287796"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoprintffloat.453872211.1536913025" name="Use float with printf from newlib-nano (-u _printf_float)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoprintffloat.453872211"/>
-							<option id="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoscanffloat.884044851.1562681215" name="Use float with scanf from newlib-nano (-u _scanf_float)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.option.nanoscanffloat.884044851"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1926956329" name="MCU/MPU GCC Assembler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.389941184"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1012918065" name="MCU/MPU GCC Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1728748274"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1900723749" name="MCU/MPU G++ Compiler" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1440071810"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.455402736" name="MCU/MPU GCC Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.1258792723"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.2062812989" name="MCU/MPU G++ Linker" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.853179074"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1888036895" name="MCU/MPU GCC Archiver" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.2138943803"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.1152850618" name="MCU Size" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.263434521"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.610926365" name="MCU Output Converter list file" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.1340710993"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1232202099" name="MCU Output Converter Hex" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.1998701602"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.1788902443" name="MCU Output Converter Binary" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.1663725780"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.1403252467" name="MCU Output Converter Verilog" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.646339404"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.266837856" name="MCU Output Converter Motorola S-rec" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.1701996289"/>
-							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.351577198" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.337587435"/>
-						</toolChain>
-					</folderInfo>
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="AZURE_RTOS"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Abstraction"/>
-						<entry excluding="UserCode/ExternalInterface/GPInterface|Scripts/addons|UserCode/AHRS|UserCode/PeripheralInputs/BarometerMS5611DriverTask|UserCode/PeripheralInputs/BarometerHoneywellDriverTask|UserCode/PeripheralInputs/BaroMagnetoListenerTask|UserCode/PeripheralInputs/MagnetometerRm3100DriverTask|UserCode/PeripheralInputs/IMUDriverTask|UserCode/PeripheralInputs/GNSSUbloxDriverTask|UserCode/EGIReplay|UserCode/SystemManager|UserCode/StrapDown|UserCode/Kalman|Builder/aSenseFamily/aSense2XX|Builder/aSenseFamily/aSense3XX" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Application"/>
+						<entry excluding="UserCode/PeripheralInputs/Barometer|UserCode/PeripheralInputs/Magnetometer|UserCode/PeripheralInputs/DeltaImuListenerTask|UserCode/PeripheralInputs/GNSS|UserCode/ExternalInterface/GPInterface|Scripts/addons|UserCode/AHRS|UserCode/PeripheralInputs/BarometerMS5611DriverTask|UserCode/PeripheralInputs/BarometerHoneywellDriverTask|UserCode/PeripheralInputs/BaroMagnetoListenerTask|UserCode/PeripheralInputs/MagnetometerRm3100DriverTask|UserCode/PeripheralInputs/IMUDriverTask|UserCode/PeripheralInputs/GNSSUbloxDriverTask|UserCode/EGIReplay|UserCode/SystemManager|UserCode/StrapDown|UserCode/Kalman|Builder/aSenseFamily/aSense2XX|Builder/aSenseFamily/aSense3XX" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Application"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Common"/>
 						<entry excluding="Startup/startup_stm32h743aiix.s" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
