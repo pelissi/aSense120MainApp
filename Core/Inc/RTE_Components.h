@@ -22,7 +22,7 @@
 #define  __RTE_COMPONENTS_H__
 
 /* Defines ------------------------------------------------------------------*/
-/* STMicroelectronics.X-CUBE-AZRTOS-H7.3.3.0 */
+/* STMicroelectronics.X-CUBE-AZRTOS-H7.3.5.0 */
 #define THREADX_ENABLED
 
 #endif /* __RTE_COMPONENTS_H__ */

@@ -39,7 +39,7 @@ _estack = ORIGIN(RAM_D1) + LENGTH(RAM_D1);    /* end of RAM */
 /* Generate a link error if heap and stack don't fit into RAM */
 _Min_Heap_Size = 0x30000;      /* required amount of heap  */
 _Min_Stack_Size = 0x1000; /* required amount of stack */
-_NonCacheable_RamD1_length 	= 0x4000;
+_NonCacheable_RamD1_length 	= 0x8000;
 _ed2stack	= ORIGIN(RAM_D2) + LENGTH(RAM_D2);    /* end of RAM */
 _Min_D2Stack_Size = LENGTH(RAM_D2);
 _ed3stack	= ORIGIN(RAM_D3) + LENGTH(RAM_D3);    /* end of RAM */
